@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width:100%;
+    height: 900px;
+
+}
+
+.containerleft{
+    width:60%;
+    height: 725px;
+    float:left;
+    padding: 0px ;
+    /* background-color: pink; */
+    text-indent: 150px ;
+    text-align: left;
+    margin-top: 200px;
+}
+.containeright{
+    width:40%;
+    height: 725px;
+    float:right;
+    /* background-color: red; */
+}
+.img{ 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 825px;
+
+}
+
+.h1{
+    margin: 0;
+    font-size: 40px;
+    color:white;
+}
+.h1 p{
+    margin: 0;
+    color: rgb(213, 80, 134);
+    font-size: 70px;
+}
+
+.h2 p{
+    color:white;
+    font-size: 20px;;
+}
+git config --global user.email "StevenCode7705@gmail.com"
+git config --global user.name "Steven7705"
